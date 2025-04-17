@@ -26,5 +26,5 @@
 ## 🛠 Installazione  
 ```bash
 git clone https://github.com/mttgvnrd/Inception.git
-cd Inception/srcs
+cd Inception/project/srcs
 make  # Avvia l'infrastruttura
