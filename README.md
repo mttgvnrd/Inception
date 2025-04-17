@@ -19,7 +19,7 @@
 ✅ **Sicurezza**:  
    - Variabili d'ambiente (`.env`)  
    - Niente password in chiaro nei Dockerfile  
-   - Dominio personalizzato (`login.42.fr`)  
+   - Dominio personalizzato (`mgiovana.42.fr`)  
 
 ---
 
