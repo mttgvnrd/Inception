@@ -11,11 +11,13 @@
    - `NGINX` (TLSv1.2/1.3)  
    - `WordPress` + `php-fpm`  
    - `MariaDB`
+
 ✅ **Regole**:  
    - Immagini custom da Alpine/Debian (no pre-built)  
    - Volumi per database e file WordPress  
    - Rete Docker dedicata  
    - Restart automatico dei container
+
 ✅ **Sicurezza**:  
    - Variabili d'ambiente (`.env`)  
    - Niente password in chiaro nei Dockerfile  
